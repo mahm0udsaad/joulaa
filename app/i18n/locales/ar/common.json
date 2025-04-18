@@ -1,0 +1,37 @@
+{
+  "navbar": {
+    "home": "الرئيسية",
+    "shop": "المتجر",
+    "about": "من نحن",
+    "contact": "اتصل بنا",
+    "cart": "عربة التسوق",
+    "newArrivals": "وصل حديثاً",
+    "trending": "الأكثر رواجاً",
+    "collections": "المجموعات",
+    "search": "بحث",
+    "wishlist": "المفضلة",
+    "userMenu": {
+      "myAccount": "حسابي",
+      "profile": "الملف الشخصي",
+      "orders": "الطلبات",
+      "signOut": "تسجيل الخروج"
+    },
+    "auth": {
+      "signIn": "تسجيل الدخول",
+      "signUp": "إنشاء حساب"
+    }
+  },
+  "home": {
+    "loading": "جاري التحميل...",
+    "sections": {
+      "hero": "العرض الرئيسي",
+      "categoryShowcase": "تسوق حسب الفئة",
+      "trending": "المنتجات الرائجة",
+      "featured": "المنتجات المميزة",
+      "newArrivals": "وصل حديثاً",
+      "bestSellers": "الأكثر مبيعاً",
+      "endOfMonthSale": "تخفيضات نهاية الشهر",
+      "promotions": "العروض الخاصة"
+    }
+  }
+}

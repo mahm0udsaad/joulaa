@@ -1,0 +1,37 @@
+{
+  "navbar": {
+    "home": "Home",
+    "shop": "Shop",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "cart": "Shopping Cart",
+    "newArrivals": "New Arrivals",
+    "trending": "Trending",
+    "collections": "Collections",
+    "search": "Search",
+    "wishlist": "Wishlist",
+    "userMenu": {
+      "myAccount": "My Account",
+      "profile": "Profile",
+      "orders": "Orders",
+      "signOut": "Sign out"
+    },
+    "auth": {
+      "signIn": "Sign In",
+      "signUp": "Sign Up"
+    }
+  },
+  "home": {
+    "loading": "Loading...",
+    "sections": {
+      "hero": "Hero Slider",
+      "categoryShowcase": "Shop by Category",
+      "trending": "Trending Products",
+      "featured": "Featured Products",
+      "newArrivals": "New Arrivals",
+      "bestSellers": "Best Sellers",
+      "endOfMonthSale": "End of Month Sale",
+      "promotions": "Promotions"
+    }
+  }
+}
